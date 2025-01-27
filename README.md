@@ -1,5 +1,3 @@
-# killlilwinters
-=======
 # Hi there, I'm Max! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=killlilwinters&style=flat-square&color=blue)
