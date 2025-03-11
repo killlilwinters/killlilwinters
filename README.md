@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - 💻 I’m a an aspiring iOS Developer.
 - 🎓 Currently studying Automation and Robotics.
-- 🌱 I’m learning UIKit, CoreData, Firebase.
+- 🌱 I’m currently learning advanced SwiftUI, CoreData, Firebase, Swift Testing, Combine.
 - 💡 I enjoy exploring AI, Video Technologies.
 - 📍 Based in Kharkiv, Ukraine.
 
