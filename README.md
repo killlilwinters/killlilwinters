@@ -29,7 +29,7 @@ It is my biggest project YET!
 WhoFollows is an app that lets you view GitHub profiles, browse and save followers and more!
 This project is made in programmatic UIKit.
 
-### [TicTacRow](https://github.com/your-username/project2)
+### [TicTacRow](https://github.com/killlilwinters/TicTacRow)
 This was my first ever app!
 
 ---
@@ -39,4 +39,4 @@ This was my first ever app!
 
 ---
 
-### KEEEEEPPPP PUUUSHIIIINNGGGG!!!
+### 💨 KEEEEEPPPP PUUUSHIIIINNGGGG!!! 💨
