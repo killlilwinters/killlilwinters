@@ -38,6 +38,9 @@ This was my first ever app!
 ### [Combine-DB-UI-Updates](https://github.com/killlilwinters/Combine-DB-UI-Updates)
 Using Combine to reactively update SwiftUI views from SwiftData changes.
 
+### [MLXTextSummarizer](https://github.com/killlilwinters/MLXTextSummarizer)
+This feature-project app for Mac OS and iOS lets you summarize texts locally on your device.
+
 ### [NavigationTests-SwiftUI](https://github.com/killlilwinters/NavigationTests-SwiftUI)
 Implementing Coordinator pattern in modern SwiftUI and pass data between views.
 
