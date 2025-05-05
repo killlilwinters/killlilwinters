@@ -29,6 +29,10 @@ It is my biggest project YET!
 WhoFollows is an app that lets you view GitHub profiles, browse and save followers and more!
 This project is made in programmatic UIKit.
 
+### [StayFocused](https://github.com/killlilwinters/StayFocused-ScreenTimeAPI)
+StayFocused is an app that lets you focus by setting a timer!
+This project uses Apple's Screen Time API to shield apps and more!
+
 ### [TicTacRow](https://github.com/killlilwinters/TicTacRow)
 This was my first ever app!
 
