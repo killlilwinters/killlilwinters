@@ -50,6 +50,12 @@ Implementing Coordinator pattern in modern SwiftUI and pass data between views.
 
 ---
 
+## 🌐 Open Source contributions
+### [HandsOff](https://github.com/twostraws/HandsOff)
+My additions include: bug fixes, code refactor and translations!
+
+---
+
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=killlilwinters&show_icons=true&theme=radical)
 
