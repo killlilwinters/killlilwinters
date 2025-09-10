@@ -9,8 +9,8 @@
 - 📍 Based in Kharkiv, Ukraine.
 
 ## 🔧 Tech Stack
-- **Languages**: ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-- **Frameworks**: ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0078D7?style=flat-square&logo=swift&logoColor=white) ![SwiftData](https://img.shields.io/badge/-SwiftData-FA7343?style=flat-square&logo=swift&logoColor=white) ![UIKit](https://img.shields.io/badge/-UIKit-2396F3?style=flat-square&logo=swift&logoColor=white) ![Combine](https://img.shields.io/badge/-Combine-FA7343?style=flat-square&logo=swift&logoColor=white)  
+- **Languages**: ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- **Frameworks**: ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0078D7?style=flat-square&logo=swift&logoColor=white) ![SwiftData](https://img.shields.io/badge/-SwiftData-FA7343?style=flat-square&logo=swift&logoColor=white) ![UIKit](https://img.shields.io/badge/-UIKit-2396F3?style=flat-square&logo=swift&logoColor=white) ![Combine](https://img.shields.io/badge/-Combine-FA7343?style=flat-square&logo=swift&logoColor=white)
 - **Tools**: ![SwiftLint](https://img.shields.io/badge/-SwiftLint-0096D6?style=flat-square&logo=swift&logoColor=white) ![Xcode](https://img.shields.io/badge/-Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## 🌟 Featured Projects
@@ -53,26 +53,49 @@
   </tr>
 </table>
 
-## 📃 Feature Projects
-- 🔁 **[Combine-DB-UI-Updates](https://github.com/killlilwinters/Combine-DB-UI-Updates)**  
-  Reactive SwiftUI updates via Combine and SwiftData.
-- 🧠 **[MLXTextSummarizer](https://github.com/killlilwinters/MLXTextSummarizer)**  
-  Summarize text locally on iOS/macOS using MLX.
-- 🧭 **[NavigationTests-SwiftUI](https://github.com/killlilwinters/NavigationTests-SwiftUI)**  
-  Modern SwiftUI navigation using a custom coordinator pattern.
+## 🌐 Open / 🔒 Closed Source Contributions
+<table>
+  <tr>
+    <td valign="top" width="80">
+      <img src="https://camo.githubusercontent.com/3918f8048167fe4f426f370fd7d8f4d76948dbf796fdd6ba125ea8afeee4881d/68747470733a2f2f7777772e6861636b696e677769746873776966742e636f6d2f696d672f68616e64736f66662f6c6f676f2e706e67" width="70" />
+    </td>
+    <td valign="top">
+      <strong>🌐 <a href="https://github.com/twostraws/HandsOff">HandsOff</a></strong><br/>
+      Contributed bug fixes, refactors, and translations.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="80">
+      <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/139014119/487630748-16f6cee4-fa42-4bb7-acbd-1c506b3de048.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250910%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250910T061409Z&X-Amz-Expires=300&X-Amz-Signature=37b6cda39c237fa47a5eae29aba04e964255da46f139a79c166418e5e87e0996&X-Amz-SignedHeaders=host" width="70" />
+    </td>
+    <td valign="top">
+      <strong>🔒 <a href="https://apps.apple.com/ua/app/deep-wave-focus/id6746186971">Deep Wave</a></strong><br/>
+      Owned and delivered key features for the Deep Wave Focus iOS app while leading advanced concurrency, StoreKit integration, MVVM refactoring, performance tuning, and publishing technical expertise to the wider Swift community.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="80">
+      <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/139014119/487634442-1556ae9b-f2fe-4618-bb89-679e066d8b73.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250910%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250910T062423Z&X-Amz-Expires=300&X-Amz-Signature=f33d2f9b60bd9ba050d17026f29ffae02ef2236aa1b017c0d8cb707a7e029216&X-Amz-SignedHeaders=host" width="70" />
+    </td>
+    <td valign="top">
+      <strong>🌐 <a href="https://apps.apple.com/ua/app/dvr-car-camera/id6642661118">DVR Car Camera</a></strong><br/>
+      Contributed bug fixes, refactors, and translations.
+    </td>
+  </tr>
+</table>
 
 ## 📚 Writing & Demos
-- 📄 **[Taking SwiftData Further: @ModelActor, Swift Concurrency, and Avoiding @MainActor Pitfalls](https://medium.com/@killlilwinters/taking-swiftdata-further-modelactor-swift-concurrency-and-avoiding-mainactor-pitfalls-3692f61f2fa1)**  
-  Accompanied by: [SwiftDataConcurrency – Sample Project](https://github.com/killlilwinters/SwiftDataConcurrency)  
-  > Practical guide and code sample showing how to structure SwiftData apps using `ModelActor`, modern concurrency, and actor isolation for clean, thread-safe data handling.
+- 📄 **[Taking SwiftData Further: @ModelActor, Swift Concurrency, and Avoiding @MainActor Pitfalls](https://medium.com/@killlilwinters/taking-swiftdata-further-modelactor-swift-concurrency-and-avoiding-mainactor-pitfalls-3692f61f2fa1)**
+Accompanied by: [SwiftDataConcurrency – Sample Project](https://github.com/killlilwinters/SwiftDataConcurrency)
+> Practical guide and code sample showing how to structure SwiftData apps using `ModelActor`, modern concurrency, and actor isolation for clean, thread-safe data handling.
 
-## 🌐 Open / 🔒 Closed Source Contributions
-- 🌐 **[HandsOff](https://github.com/twostraws/HandsOff)**  
-  Contributed bug fixes, refactors, and translations.
-- 🔒 **[Deep Wave](https://apps.apple.com/ua/app/deep-wave-focus/id6746186971)**  
-  Owned and delivered key features for the Deep Wave Focus iOS app while leading advanced concurrency, StoreKit integration, MVVM refactoring, performance tuning, and publishing technical expertise to the wider Swift community.
-- 🌐 **[DVR Car Camera](https://apps.apple.com/ua/app/dvr-car-camera/id6642661118)**  
-  Contributed bug fixes, refactors, and translations.
+## 📃 Feature Projects
+- 🔁 **[Combine-DB-UI-Updates](https://github.com/killlilwinters/Combine-DB-UI-Updates)**
+Reactive SwiftUI updates via Combine and SwiftData.
+- 🧠 **[MLXTextSummarizer](https://github.com/killlilwinters/MLXTextSummarizer)**
+Summarize text locally on iOS/macOS using MLX.
+- 🧭 **[NavigationTests-SwiftUI](https://github.com/killlilwinters/NavigationTests-SwiftUI)**
+Modern SwiftUI navigation using a custom coordinator pattern.
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=killlilwinters&show_icons=true&theme=radical)
