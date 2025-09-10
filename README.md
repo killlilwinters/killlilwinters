@@ -79,7 +79,7 @@
     </td>
     <td valign="top">
       <strong>🔒 <a href="https://apps.apple.com/ua/app/dvr-car-camera/id6642661118">DVR Car Camera</a></strong><br/>
-      Contributed bug fixes, refactors, and translations.
+      Contributed bug/crash fixes.
     </td>
   </tr>
 </table>
