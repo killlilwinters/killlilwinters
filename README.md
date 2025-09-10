@@ -66,8 +66,12 @@
   Accompanied by: [SwiftDataConcurrency – Sample Project](https://github.com/killlilwinters/SwiftDataConcurrency)  
   > Practical guide and code sample showing how to structure SwiftData apps using `ModelActor`, modern concurrency, and actor isolation for clean, thread-safe data handling.
 
-## 🌐 Open Source Contributions
-- 👐 **[HandsOff](https://github.com/twostraws/HandsOff)**  
+## 🌐 Open / 🔒 Closed Source Contributions
+- 🌐 **[HandsOff](https://github.com/twostraws/HandsOff)**  
+  Contributed bug fixes, refactors, and translations.
+- 🔒 **[Deep Wave](https://apps.apple.com/ua/app/deep-wave-focus/id6746186971)**  
+  Owned and delivered key features for the Deep Wave Focus iOS app while leading advanced concurrency, StoreKit integration, MVVM refactoring, performance tuning, and publishing technical expertise to the wider Swift community.
+- 🌐 **[DVR Car Camera](https://apps.apple.com/ua/app/dvr-car-camera/id6642661118)**  
   Contributed bug fixes, refactors, and translations.
 
 ## 📈 GitHub Stats
