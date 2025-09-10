@@ -66,7 +66,7 @@
   </tr>
   <tr>
     <td valign="top" width="80">
-      <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/139014119/487630748-16f6cee4-fa42-4bb7-acbd-1c506b3de048.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250910%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250910T061409Z&X-Amz-Expires=300&X-Amz-Signature=37b6cda39c237fa47a5eae29aba04e964255da46f139a79c166418e5e87e0996&X-Amz-SignedHeaders=host" width="70" />
+      <img src="ttps://github.com/user-attachments/assets/0694a0ef-d867-44d9-a19e-142b267459bb" width="70" />
     </td>
     <td valign="top">
       <strong>🔒 <a href="https://apps.apple.com/ua/app/deep-wave-focus/id6746186971">Deep Wave</a></strong><br/>
@@ -75,7 +75,7 @@
   </tr>
   <tr>
     <td valign="top" width="80">
-      <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/139014119/487634442-1556ae9b-f2fe-4618-bb89-679e066d8b73.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250910%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250910T062423Z&X-Amz-Expires=300&X-Amz-Signature=f33d2f9b60bd9ba050d17026f29ffae02ef2236aa1b017c0d8cb707a7e029216&X-Amz-SignedHeaders=host" width="70" />
+      <img src="https://github.com/user-attachments/assets/0f152187-1af2-4367-8e32-87cffe21e127" width="70" />
     </td>
     <td valign="top">
       <strong>🌐 <a href="https://apps.apple.com/ua/app/dvr-car-camera/id6642661118">DVR Car Camera</a></strong><br/>
