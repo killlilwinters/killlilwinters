@@ -78,7 +78,7 @@
       <img src="https://github.com/user-attachments/assets/0f152187-1af2-4367-8e32-87cffe21e127" width="70" />
     </td>
     <td valign="top">
-      <strong>🌐 <a href="https://apps.apple.com/ua/app/dvr-car-camera/id6642661118">DVR Car Camera</a></strong><br/>
+      <strong>🔒 <a href="https://apps.apple.com/ua/app/dvr-car-camera/id6642661118">DVR Car Camera</a></strong><br/>
       Contributed bug fixes, refactors, and translations.
     </td>
   </tr>
