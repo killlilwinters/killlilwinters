@@ -44,6 +44,15 @@
   </tr>
   <tr>
     <td valign="top" width="80">
+      <img src="https://github.com/user-attachments/assets/2997f5dc-6e2a-48e9-afc4-1294cd287e95" width="70" />
+    </td>
+    <td valign="top">
+      <strong><a href="https://apps.apple.com/in/app/agendanure/id6753592840">AgendaNURE</a></strong><br/>
+      University schedule app for NURE, built with SwiftUI, featuring API data and caching.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="80">
       <img src="https://github.com/user-attachments/assets/72b9ad91-e962-4f21-a0e1-a4bf1a31729f" width="70" />
     </td>
     <td valign="top">
@@ -57,11 +66,20 @@
 <table>
   <tr>
     <td valign="top" width="80">
-      <img src="https://camo.githubusercontent.com/3918f8048167fe4f426f370fd7d8f4d76948dbf796fdd6ba125ea8afeee4881d/68747470733a2f2f7777772e6861636b696e677769746873776966742e636f6d2f696d672f68616e64736f66662f6c6f676f2e706e67" width="70" />
+      <img src="https://camo.githubusercontent.com/3918f8048167fe4f426f370fd7d8f4d76948dbf796fdd6ba125ea8afeee4881d/68747470733a2f2f7777772e6861636b696e677769746873776966742e636f6d2f696d672f68616e64736f66662f6c6f672e706e67" width="70" />
     </td>
     <td valign="top">
       <strong>🌐 <a href="https://github.com/twostraws/HandsOff">HandsOff</a></strong><br/>
       Contributed bug fixes, refactors, and translations.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="80">
+      <img alt="UDF-logo" src="https://github.com/user-attachments/assets/bfb4e4da-f2f1-43ec-a804-b51f7c5e4ffd" width="70" />
+    </td>
+    <td valign="top">
+      <strong>🌐 <a href="https://github.com/urlaunched-com/UDFWebSocketsClient">UDFWebSocketsClient</a></strong><br/>
+      Delivered fixes to improve WebSocket client stability in Combine framework contexts.
     </td>
   </tr>
   <tr>
@@ -88,6 +106,9 @@
 - 📄 **[Taking SwiftData Further: @ModelActor, Swift Concurrency, and Avoiding @MainActor Pitfalls](https://medium.com/@killlilwinters/taking-swiftdata-further-modelactor-swift-concurrency-and-avoiding-mainactor-pitfalls-3692f61f2fa1)**
 Accompanied by: [SwiftDataConcurrency – Sample Project](https://github.com/killlilwinters/SwiftDataConcurrency)
 > Practical guide and code sample showing how to structure SwiftData apps using `ModelActor`, modern concurrency, and actor isolation for clean, thread-safe data handling.
+- 📄 **[Overcoming MonitoringError.intervalTooShort error in ScreenTime API](https://medium.com/@killlilwinters/overcoming-monitoringerror-intervaltooshort-error-in-screentime-api-0f5256fac741)**
+Accompanied by: [StayFocused-ScreenTimeAPI](https://github.com/killlilwinters/StayFocused-ScreenTimeAPI)
+> A deep dive into the ScreenTime API's `MonitoringError.intervalTooShort` limitation, offering various workarounds—from dual-schedule systems to concurrency tricks—and a sample project to demonstrate a clean, duration-based blocking alternative.
 
 ## 📃 Feature Projects
 - 🔁 **[Combine-DB-UI-Updates](https://github.com/killlilwinters/Combine-DB-UI-Updates)**
