@@ -84,6 +84,15 @@
   </tr>
   <tr>
     <td valign="top" width="80">
+      <img alt="UDF-logo" src="https://github.com/user-attachments/assets/bfb4e4da-f2f1-43ec-a804-b51f7c5e4ffd" width="70" />
+    </td>
+    <td valign="top">
+      <strong>🌐 <a href="https://github.com/Maks-Jago/swiftui-snapshot-test-case">swiftui-snapshot-test-case</a></strong><br/>
+      Stabilized SwiftUI snapshot generation for the iOS 26 SDK by addressing layout, device configuration, and CI-specific rendering issues.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="80">
       <img src="https://github.com/user-attachments/assets/0694a0ef-d867-44d9-a19e-142b267459bb" width="70" />
     </td>
     <td valign="top">
