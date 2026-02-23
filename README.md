@@ -73,6 +73,15 @@
       Contributed bug fixes, refactors, and translations.
     </td>
   </tr>
+    <tr>
+    <td valign="top" width="80">
+      <img alt="UDF-logo" src="https://github.com/user-attachments/assets/bfb4e4da-f2f1-43ec-a804-b51f7c5e4ffd" width="70" />
+    </td>
+    <td valign="top">
+      <strong>🌐 <a href="https://github.com/Maks-Jago/SwiftUI-UDF">SwiftUI-UDF</a></strong><br/>
+      Contributed concurrency crash fixes in the Combine layer and improved testability of the UDF architecture by introducing bindable flow lifecycle controls to TestStore.
+    </td>
+  </tr>
   <tr>
     <td valign="top" width="80">
       <img alt="UDF-logo" src="https://github.com/user-attachments/assets/bfb4e4da-f2f1-43ec-a804-b51f7c5e4ffd" width="70" />
