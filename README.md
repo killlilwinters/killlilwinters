@@ -66,7 +66,7 @@
 <table>
   <tr>
     <td valign="top" width="80">
-      <img src="https://camo.githubusercontent.com/3918f8048167fe4f426f370fd7d8f4d76948dbf796fdd6ba125ea8afeee4881d/68747470733a2f2f7777772e6861636b696e677769746873776966742e636f6d2f696d672f68616e64736f66662f6c6f676f2e706e67" width="70" />
+      <img src="https://camo.githubusercontent.com/69d9c443f6532aa2ee60f178c20fa5b9e5e8e0bc8352021d8721b9df8308ff5e/68747470733a2f2f7777772e6861636b696e677769746873776966742e636f6d2f696d672f68616e64736f66662f6c6f676f2e706e67" width="70" />
     </td>
     <td valign="top">
       <strong>🌐 <a href="https://github.com/twostraws/HandsOff">HandsOff</a></strong><br/>
